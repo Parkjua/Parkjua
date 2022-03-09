@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Parkjua
+- Hi👋�, my name is Parkjua
 - 👀 I’m interested in drama
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
