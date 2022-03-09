@@ -1,11 +1,11 @@
 Hi there 👋
-<br>
+<br />
 Introduce Myself !
 - My name is Parkjua 👩
 - 👀 I’m interested in drama
 - 🌱📚 I’m currently learning Javascript,Unity
 - 💌 How to reach me wndk3309@kaywom.ac.kr
-<hr /><br />
+<hr />
 ✨ Skills
 <br />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
