@@ -3,7 +3,7 @@ Hi there 👋
 Introduce Myself !
 - My name is Parkjua 👩
 - 👀 I’m interested in drama
-- 🌱📚 I’m currently learning Javascript,Unity
+- 📚 I’m currently learning Javascript,Unity
 - 💌 How to reach me wndk3309@kaywom.ac.kr
 <hr />
 
